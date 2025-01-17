@@ -35,7 +35,7 @@ This project is a beginner-friendly tool that determines whether a given input s
 ### Steps to Run
 1. Clone this repository to your local machine using the command:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Geekykiran/Palindrome-checker.git>
    ```
 2. Navigate to the project directory:
    ```bash
